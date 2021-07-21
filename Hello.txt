@@ -1,3 +1,7 @@
 Hello, I'm edited this file.
 Just commit in Prabhat branch.
+<<<<<<< HEAD
 Bdjhsbjkndkj
+=======
+dvghjdkjhdkj
+>>>>>>> 063e1539e61ff049662b48035798735669cc629c
